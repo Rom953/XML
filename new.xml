@@ -1,0 +1,13 @@
+
+<FIO>
+	<first name>Roman</first name>
+	<midle name>Vladimirovich </midle name>
+	<last name>Korevanov</last name>
+	<age>35</age>
+	<salary>$2k</salary>
+</FIO>     
+<pets>
+	<cat>murka</cat>
+	<dog>shrik</dog>
+</pets>
+
